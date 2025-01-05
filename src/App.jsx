@@ -142,13 +142,6 @@ function App() {
 										</h1>
 									</div>
 								</li>
-								<li className="list-disc">
-									<div className="mt-4 flex flex-col gap-3 text-ellipsis">
-										<h1 className="text-xl font-bold text-slate-700">
-											SQL and Redash usage knowledge
-										</h1>
-									</div>
-								</li>
 							</ul>
 						</div>
 					</div>
